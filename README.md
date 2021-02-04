@@ -14,4 +14,11 @@ First edit the config.sh file and add:
 
 - MAIL_USER = your email
 
+## Run the pipeline
+
+to run the pipeline use the command
+
+```
+./run.sh
+```
 
